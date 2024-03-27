@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.hero{
+	display : flex;
+	justify-content : space-around;
+	align-items : center;
+	flex-wrap : wrap;
+}
+#btn{
+	border : none;
+	background-color : red;
+	color : white;
+	border-radius : 5px;
+	padding : 10px;
+}
